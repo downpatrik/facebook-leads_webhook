@@ -1,7 +1,7 @@
 Receiving Facebook Leads on a Webhook
 ===========================
 
-My instructions are based on  [@eladnava](https://eladnava.com/get-facebook-ad-lead-notifications-in-realtime-with-node-js-webhooks.)
+My instructions are based on  [@eladnava](https://eladnava.com/get-facebook-ad-lead-notifications-in-realtime-with-node-js-webhooks/)
 
 ## 1 - Create an App
 
